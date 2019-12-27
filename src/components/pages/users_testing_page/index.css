@@ -1,0 +1,33 @@
+/*.TestBox{*/
+    /*display: flex;*/
+    /*flex-wrap: wrap;*/
+    /*justify-content: space-around;*/
+    /*align-items: center;*/
+    /*!*width: 150px;*!*/
+    /*min-height: 200px;*/
+    /*background-color: #7df171;*/
+    /*!*border: 4px solid;*!*/
+    /*border-top: none;*/
+    /*border-bottom: none;*/
+    /*box-sizing: border-box;*/
+    /*margin: auto;*/
+/*}*/
+
+.BoxAnswer {
+    /*width: 50px;*/
+    width: 45%;
+    height: 20px;
+    background-color: #9e77f1;
+}
+
+/*.BoxWrap{*/
+    /*background-color: #ffd129;*/
+/*}*/
+
+/*.Box {*/
+    /*width: 600px;*/
+    /*height: 400px;*/
+    /*margin: auto;*/
+    /*border: #9e77f1 4px solid;*/
+    /*background-color: #e7e7e7;*/
+/*}*/

@@ -1,0 +1,35 @@
+.timerPause{
+    width: 15px;
+    height: 20px;
+    background-color: #c4f1cd;
+    border: 4px solid;
+    border-top: none;
+    border-bottom: none;
+    box-sizing: border-box;
+
+    margin: auto;
+}
+
+
+.timerStop{
+    width: 20px;
+    height: 20px;
+    background-color: #000000;
+    box-sizing: border-box;
+    margin: auto;
+}
+.timerBox{
+
+    display: flex;
+    justify-content: center;
+    /*display: block;*/
+    /*width: 300px;*/
+    background-color: #c4f1cd;
+}
+
+.lineBox{
+    width: 10%;
+    height: 10px;
+    background-color: #ff9dbf;
+
+}

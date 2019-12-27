@@ -1,0 +1,17 @@
+.box{
+    height: 100%;
+    width: 300px;
+    background-color: #e7e7e7;
+    display: flex;
+
+    align-items: center;
+    flex-direction: column;
+    border: aqua 1px solid;
+}
+
+.text{
+    height: 20px;
+    width: 100px;
+    background-color: #e7e7e7;
+
+}
